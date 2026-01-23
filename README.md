@@ -16,6 +16,15 @@ I write blogs to:
 2. **Git Internals: Beyond the Commands**
    - Link: <https://git-internals-beyond-the-commands.hashnode.dev/git-internals-beyond-the-commands>
 
+3. **The Pendrive problem: Why git won?**
+   - Link: <https://the-pendrive-problem-why-git-won.hashnode.dev/?__cf_chl_tk=i06ttubCl58ZdpY07rZUzNdZuxuB_11ISsAb.pAtNhU-1769131147-1.0.1.1-OOv2tdvyg9FP6SOJULWHsx_7bu1zvI4dMnptqyP9HYg>
+  
+4. **How the internet works: Device guide**
+   - Link: <https://how-the-internet-works-device-guide.hashnode.dev/>
+
+5. **How DNS Resolution Works: A Deep Dive**
+   - Link: <https://how-dns-resolution-works-a-deep-dive.hashnode.dev/how-dns-resolution-works-a-deep-dive>
+
 ## Feedback Request 🙏
 
 If you’re experienced:
