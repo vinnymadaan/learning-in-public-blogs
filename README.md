@@ -30,6 +30,9 @@ I write blogs to:
   
 7. **cURL for Beginners: Send APIs Requests**
    - Link: <https://curl-for-beginners-send-apis-requests.hashnode.dev/curl-for-beginners-send-apis-requests?showSharer=true>
+
+8. **TCP vs UDP: Which One Should You Use?**
+   - Link: <https://chaicode-webdev26.hashnode.dev/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http>
    
 ## Feedback Request 🙏
 
