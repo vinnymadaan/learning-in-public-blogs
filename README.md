@@ -27,6 +27,9 @@ I write blogs to:
 
 6. **DNS records: The internet's Phonebook**
    - Link: <https://dns-records-the-internets-phonebook.hashnode.dev/>
+  
+7. **cURL for Beginners: Send APIs Requests**
+   - Link: <https://curl-for-beginners-send-apis-requests.hashnode.dev/curl-for-beginners-send-apis-requests?showSharer=true>
    
 ## Feedback Request 🙏
 
