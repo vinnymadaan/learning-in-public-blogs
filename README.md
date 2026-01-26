@@ -25,6 +25,9 @@ I write blogs to:
 5. **How DNS Resolution Works: A Deep Dive**
    - Link: <https://how-dns-resolution-works-a-deep-dive.hashnode.dev/how-dns-resolution-works-a-deep-dive>
 
+6. **DNS records: The internet's Phonebook**
+   - Link: <https://dns-records-the-internets-phonebook.hashnode.dev/>
+   
 ## Feedback Request 🙏
 
 If you’re experienced:
