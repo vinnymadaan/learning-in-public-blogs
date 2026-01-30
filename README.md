@@ -33,6 +33,9 @@ I write blogs to:
 
 8. **TCP vs UDP: Which One Should You Use?**
    - Link: <https://chaicode-webdev26.hashnode.dev/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http>
+  
+9. **The 3-Way Handshake: Inside TCP**
+    - Link: <https://the-3-way-handshake-inside-tcp.hashnode.dev/the-3-way-handshake-inside-tcp>
    
 ## Feedback Request 🙏
 
