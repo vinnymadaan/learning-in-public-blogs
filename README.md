@@ -32,7 +32,7 @@ I write blogs to:
    - Link: <https://curl-for-beginners-send-apis-requests.hashnode.dev/curl-for-beginners-send-apis-requests?showSharer=true>
 
 8. **TCP vs UDP: Which One Should You Use?**
-   - Link: <https://chaicode-webdev26.hashnode.dev/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http>
+   - Link: <https://tcp-vs-udp-which-one-should-you-use.hashnode.dev/tcp-vs-udp-which-one-should-you-use>
   
 9. **The 3-Way Handshake: Inside TCP**
     - Link: <https://the-3-way-handshake-inside-tcp.hashnode.dev/the-3-way-handshake-inside-tcp>
