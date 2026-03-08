@@ -36,6 +36,9 @@ I write blogs to:
   
 9. **The 3-Way Handshake: Inside TCP**
     - Link: <https://the-3-way-handshake-inside-tcp.hashnode.dev/the-3-way-handshake-inside-tcp>
+  
+10. **Understanding Variables and Data Types in JavaScript**
+    - Link: <https://jsvariableanddatatypes.hashnode.dev/understanding-variables-and-data-types-in-javascript>
    
 ## Feedback Request 🙏
 
