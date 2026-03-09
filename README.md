@@ -46,6 +46,9 @@ I write blogs to:
 12. **Arrow Functions in JavaScript: A Simpler Way to Write Functions**
     - Link: <https://vinnyma.hashnode.dev/arrow-functions-in-javascript-a-simpler-way-to-write-functions>
    
+13. **Control Flow in JavaScript: If, Else, and Switch Explained**
+    - Link: <https://jscontrolflow.hashnode.dev/control-flow-in-javascript-if-else-and-switch-explained>
+   
 ## Feedback Request 🙏
 
 If you’re experienced:
