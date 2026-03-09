@@ -51,6 +51,9 @@ I write blogs to:
    
 14. **JavaScript Operators: The Basics You Need to Know**
    - Link: <https://jsbasicsofoperators.hashnode.dev/javascript-operators-the-basics-you-need-to-know>
+
+15. **The Magic of this, call(), apply(), and bind() in JavaScript**
+    - Link: <https://themagicofjavascript.hashnode.dev/the-magic-of-this-call-apply-and-bind-in-javascript>
    
 ## Feedback Request 🙏
 
