@@ -55,6 +55,9 @@ I write blogs to:
 15. **The Magic of this, call(), apply(), and bind() in JavaScript**
     - Link: <https://themagicofjavascript.hashnode.dev/the-magic-of-this-call-apply-and-bind-in-javascript>
    
+16. **Understanding Object-Oriented Programming in JavaScript**
+    - Link: <https://oopsjs.hashnode.dev/understanding-object-oriented-programming-in-javascript>
+   
 ## Feedback Request 🙏
 
 If you’re experienced:
