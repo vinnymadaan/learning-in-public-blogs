@@ -49,6 +49,9 @@ I write blogs to:
 13. **Control Flow in JavaScript: If, Else, and Switch Explained**
     - Link: <https://jscontrolflow.hashnode.dev/control-flow-in-javascript-if-else-and-switch-explained>
    
+14. **JavaScript Operators: The Basics You Need to Know**
+   - Link: <https://jsbasicsofoperators.hashnode.dev/javascript-operators-the-basics-you-need-to-know>
+   
 ## Feedback Request 🙏
 
 If you’re experienced:
