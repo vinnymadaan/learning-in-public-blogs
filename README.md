@@ -40,6 +40,9 @@ I write blogs to:
 10. **Understanding Variables and Data Types in JavaScript**
     - Link: <https://jsvariableanddatatypes.hashnode.dev/understanding-variables-and-data-types-in-javascript>
    
+11. **Array Methods You Must Know**
+    - Link: <https://vinnym.hashnode.dev/array-methods-you-must-know>
+   
 ## Feedback Request 🙏
 
 If you’re experienced:
