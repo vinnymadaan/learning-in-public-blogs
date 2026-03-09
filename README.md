@@ -58,6 +58,12 @@ I write blogs to:
 16. **Understanding Object-Oriented Programming in JavaScript**
     - Link: <https://oopsjs.hashnode.dev/understanding-object-oriented-programming-in-javascript>
    
+17. **JavaScript Arrays 101**
+    - Link: <https://javascriptarrays.hashnode.dev/javascript-arrays-101>
+   
+18. **Function Declaration vs Function Expression: What’s the Difference?**
+    - Link: <https://jsfunctiontypes.hashnode.dev/function-declaration-vs-function-expression-what-s-the-difference>
+   
 ## Feedback Request 🙏
 
 If you’re experienced:
