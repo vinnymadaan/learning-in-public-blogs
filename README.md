@@ -43,6 +43,9 @@ I write blogs to:
 11. **Array Methods You Must Know**
     - Link: <https://vinnym.hashnode.dev/array-methods-you-must-know>
    
+12. **Arrow Functions in JavaScript: A Simpler Way to Write Functions**
+    - Link: <https://vinnyma.hashnode.dev/arrow-functions-in-javascript-a-simpler-way-to-write-functions>
+   
 ## Feedback Request 🙏
 
 If you’re experienced:
